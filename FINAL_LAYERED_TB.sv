@@ -1,3 +1,10 @@
+//******** Documentation Section ***************
+//Layered testbench for LC3 Microprocessor
+// Author : Ajitesh Gupta
+// Date : 12th July 2019
+
+
+
 //---- INTERFACES -----
 //INTERFACE FOR OVERALL LC3
 interface all_in_one_if(input bit clock);
