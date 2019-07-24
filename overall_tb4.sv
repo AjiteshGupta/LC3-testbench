@@ -1,6 +1,11 @@
+//******** Documentation Section ***************
+//Layered testbench for LC3 Microprocessor - Simple
+// Author : Ajitesh Gupta
+// Date : 15th July 2019
+
+
 `timescale 1ns/10ps
-//By Group - 4
-//Compile and Simulate the test_top file
+
 
 
 interface intfc(input bit clock);
